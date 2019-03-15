@@ -6,6 +6,7 @@
 --
 
 Nombre del Equipo: LMJ11
+
 Proyecto: Bot de viajes en el tiempo y religiones
 
 Resumen:  
