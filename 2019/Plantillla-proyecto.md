@@ -5,8 +5,7 @@
 ![](https://imgix.bustle.com/rehost/2016/9/13/0a3eb310-cd79-453e-a4cf-8c755bbcf33c.jpg)
 --
 
-Nombre del Equipo: :blue_heart:   :blue_heart:
-
+Nombre del Equipo: LMJ11
 Proyecto: Bot de viajes en el tiempo y religiones
 
 Resumen:  
