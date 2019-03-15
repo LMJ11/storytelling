@@ -1,38 +1,33 @@
-# Proyecto Hackers
+# Proyecto Viajes en el tiempo.
 
 
-![](https://pbs.twimg.com/profile_images/705223576945700864/FuC-WWlc_400x400.jpg)
-![](http://www.fd4a.net/Android_Icons/3D-Matrix-Pro-Vol-3-Revolution.png)
-![](https://pbs.twimg.com/profile_images/588150066529046528/j93MmaCF_400x400.jpg)
-![](http://multimedialasflores.com.ar/wp-content/uploads/2018/10/001-cohete.png)
+![](https://pixel.nymag.com/imgs/daily/vulture/2016/11/07/tessa.w700.h467.jpg)
+![](https://imgix.bustle.com/rehost/2016/9/13/0a3eb310-cd79-453e-a4cf-8c755bbcf33c.jpg)
 --
 
 Nombre del Equipo: :blue_heart:   :blue_heart:
 
-Proyecto 
+Proyecto: Bot de viajes en el tiempo y religiones
 
 Resumen:  
 
 
-- Contexto: 
+- Contexto: La Tierra #1689 pertenece al departamento de Predicción y Aislamiento dentro del Ministerio de Viajes Temporales, el cual se fundó en el año 2114. El trabajo de nuestro personaje consiste en cultivar la semilla para la creación de diferentes religiones y ver su evolución a lo largo de la historia, con el fin de averiguar las claves necesarias para desarrollar una serie de creencias que perduren en el tiempo.
 
-- Personaje: 
+- Personaje: El personaje creado es una Inteligencia Artificial que nos acompaña en todo momento en nuestra misión. Podemos elegir su forma de dirigirnos hacia nosotros, tanto en el género, como en el caracter de la propia IA.
 
-- Historia: 
+- Historia: Debemos de hacernos cargos de uno de los agentes del ministerio que se ha hecho líder de una de las religiones que estaban preparadas para crearse, por tanto, debemos de infiltrarnos dentro de la propia religión para deshacer su error, ya sea asesinaándolo o deteneniéndolo y volviendo a la central del ministerio.
 
-- Conflicto: 
+- Conflicto: Nuestro personaje debe de intentar arreglar un problema que ha surgido en el pasado, donde un hombre se ha hecho con el control de una de las religiones creadas y ha formado su propia secta personal.
 
-
-
-
-- ChatBot:  
+- ChatBot: Katte_Bot
 
 - Banner:  
 
 - Storytelling: 
 
 ------
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
+
 
 
 Autores: 
