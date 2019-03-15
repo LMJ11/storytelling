@@ -16,7 +16,7 @@ Resumen:
 
 - Personaje: El personaje creado es una Inteligencia Artificial que nos acompaña en todo momento en nuestra misión. Podemos elegir su forma de dirigirnos hacia nosotros, tanto en el género, como en el caracter de la propia IA.
 
-- Historia: Debemos de hacernos cargos de uno de los agentes del ministerio que se ha hecho líder de una de las religiones que estaban preparadas para crearse, por tanto, debemos de infiltrarnos dentro de la propia religión para deshacer su error, ya sea asesinaándolo o deteneniéndolo y volviendo a la central del ministerio.
+- Historia: Debemos de hacernos cargo de uno de los agentes del ministerio que se ha hecho líder de una de las religiones que estaban preparadas para crearse, por tanto, debemos de infiltrarnos dentro de la propia religión para deshacer su error, ya sea asesinaándolo o deteneniéndolo y volviendo a la central del ministerio.
 
 - Conflicto: Nuestro personaje debe de intentar arreglar un problema que ha surgido en el pasado, donde un hombre se ha hecho con el control de una de las religiones creadas y ha formado su propia secta personal.
 
