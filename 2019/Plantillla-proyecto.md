@@ -31,9 +31,9 @@ Resumen:
 
 
 Autores: 
-- :man: 
-- :woman:
-- :woman: 
+- :man: Javier Rodríguez Herrada
+- :woman: Laura Aguilar Rodríguez
+- :woman: María Joya Fernández
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
